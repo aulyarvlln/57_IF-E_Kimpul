@@ -4,7 +4,7 @@
 Proyek ini bertujuan untuk melakukan segmentasi atau pengelompokan profil nasabah bank (*customer segmentation*) berdasarkan pola transaksi finansial, usia, saldo akun, dan durasi transaksi mereka. Dengan menggunakan pendekatan *Unsupervised Learning*, algoritma **K-Means Clustering** dan **Hierarchical Clustering** diterapkan untuk mengidentifikasi kelompok-kelompok nasabah yang memiliki karakteristik serupa, sehingga pihak perbankan dapat merumuskan strategi pemasaran dan manajemen risiko yang lebih tepat sasaran.
 
 ## 👥 Anggota Kelompok & Kontribusi
-Kelompok Kimpul - Kelas Data Science IF-E
+Kelompok Kimpul - ID Kelompok 57 - Kelas Data Science IF-E
 
 1. **Sukmawati Kharisma Gati** (123240137) / IF-C
 2. **Aulya Revalina** (123240141) / IF-A
